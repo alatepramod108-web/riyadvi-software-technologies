@@ -63,7 +63,7 @@ app.use('*', (req, res) => {
   });
 });
 
-app.listen(PORT, () => {
-  console.log(`🚀 Riyadvi Software Technologies Backend API running on http://localhost:${PORT}`);
-  console.log(`📊 Admin API accessible at http://localhost:${PORT}/api/admin/stats`);
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`🚀 Riyadvi Software Technologies Backend API running on http://0.0.0.0:${PORT}`);
+  console.log(`📊 Admin API accessible at http://0.0.0.0:${PORT}/api/admin/stats`);
 });
