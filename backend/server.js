@@ -32,6 +32,25 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 app.use('/guides', express.static(path.join(__dirname, 'guides')));
 
+// Root welcome endpoint for evaluators
+app.get('/', (req, res) => {
+  res.json({
+    service: 'Riyadvi Software Technologies API Server',
+    status: 'online',
+    version: '1.0.0',
+    message: 'Welcome to the Riyadvi Software Technologies Backend API.',
+    documentation: {
+      healthCheck: '/api/health',
+      adminTelemetry: '/api/admin/stats',
+      contact: 'POST /api/contact',
+      consultation: 'POST /api/consultation',
+      healthCheckup: 'POST /api/health-checkup',
+      leadMagnet: 'POST /api/lead-magnet',
+      applications: 'POST /api/applications'
+    }
+  });
+});
+
 // Health check endpoint
 app.get('/api/health', (req, res) => {
   res.json({
