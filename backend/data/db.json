@@ -1,0 +1,147 @@
+{
+  "enquiries": [
+    {
+      "id": "enq-muwcqr1c-6no1k",
+      "name": "Rajesh Gupta",
+      "email": "rajesh@innovate.in",
+      "phone": "+91 98111 22334",
+      "company": "Innovate India",
+      "requirement": "Web & Enterprise Platform Development",
+      "message": "Interested in complete website revamp with 3D WebGL features.",
+      "status": "New",
+      "createdAt": "2026-10-06T07:23:21.312Z"
+    },
+    {
+      "id": "enq-1",
+      "name": "Michael Vance",
+      "email": "michael.vance@techcorp.io",
+      "phone": "+1 415 890 2314",
+      "company": "TechCorp Innovations",
+      "requirement": "Enterprise SaaS Web & Mobile Replatforming",
+      "message": "Looking to modernize our legacy monolithic portal with React and Node.js microservices.",
+      "status": "Contacted",
+      "createdAt": "2026-10-04T06:53:57.486Z"
+    },
+    {
+      "id": "enq-2",
+      "name": "Sarah Jenkins",
+      "email": "s.jenkins@luxuryliving.com",
+      "phone": "+44 20 7946 0912",
+      "company": "Luxury Living Developments",
+      "requirement": "Interactive 3D Architectural Showcase",
+      "message": "Need high-fidelity WebGL / Three.js interactive tour for our luxury penthouse properties.",
+      "status": "New",
+      "createdAt": "2026-10-06T01:53:57.487Z"
+    }
+  ],
+  "consultations": [
+    {
+      "id": "cons-muwcqr27-31wrq",
+      "name": "Clara Dupont",
+      "email": "clara@luxeparis.fr",
+      "phone": "+33 1 42 68 55 00",
+      "company": "Luxe Paris",
+      "service": "3D Modeling",
+      "preferredDate": "2026-10-06",
+      "message": "Need 3D flacon visualizer.",
+      "status": "Scheduled",
+      "createdAt": "2026-10-06T07:23:21.343Z"
+    },
+    {
+      "id": "cons-1",
+      "name": "David Zhao",
+      "email": "david@finflow.sg",
+      "phone": "+65 6789 0123",
+      "company": "FinFlow Global",
+      "service": "Web Development",
+      "preferredDate": "2026-10-12",
+      "message": "Initial architecture discussion for cloud migration and UI revamp.",
+      "status": "Scheduled",
+      "createdAt": "2026-10-05T06:53:57.487Z"
+    }
+  ],
+  "healthCheckups": [
+    {
+      "id": "chk-muwcqr2f-b04jp",
+      "businessName": "Zenith Logistics",
+      "industry": "Technology & Digital Commerce",
+      "companySize": "50-250 Employees",
+      "currentWebsite": "N/A",
+      "monthlyVisitors": "50,000+ High Volume",
+      "marketingChannels": [
+        "Digital Marketing",
+        "Referrals"
+      ],
+      "techStack": "React + Next.js",
+      "biggestBottleneck": "System Scalability & Lead Conversion",
+      "score": 90,
+      "readinessGrade": "A (Enterprise Ready)",
+      "recommendations": [
+        "Modernize front-end architecture with React/Vite micro-frontends for 3x load performance.",
+        "Implement unified headless CMS and API caching to support enterprise scale.",
+        "Optimize conversion funnels with interactive 3D product previews and WebGL engagement.",
+        "Automate lead pipelines directly into modern cloud infrastructure."
+      ],
+      "contactName": "Marcus Aurelius",
+      "contactEmail": "marcus@zenith.com",
+      "contactPhone": "",
+      "createdAt": "2026-10-06T07:23:21.351Z"
+    },
+    {
+      "id": "chk-1",
+      "businessName": "Apex Logistics Inc.",
+      "industry": "Supply Chain & Logistics",
+      "companySize": "50-250",
+      "currentWebsite": "https://apexlogistics-demo.com",
+      "monthlyVisitors": "10,000 - 50,000",
+      "marketingChannels": [
+        "SEO",
+        "Google Ads",
+        "LinkedIn"
+      ],
+      "techStack": "WordPress legacy, custom PHP",
+      "biggestBottleneck": "Low conversion rate & mobile loading latency",
+      "score": 68,
+      "readinessGrade": "B (High Potential)",
+      "contactName": "Robert Vance",
+      "contactEmail": "robert@apexlogistics.com",
+      "contactPhone": "+1 312 555 0192",
+      "createdAt": "2026-10-03T06:53:57.487Z"
+    }
+  ],
+  "leadMagnets": [
+    {
+      "id": "lead-muwcqr2q-4s49h",
+      "name": "Vikram Malhotra",
+      "company": "Starlight Ventures",
+      "email": "vikram@starlight.io",
+      "phone": "+91 99000 11223",
+      "guideName": "Riyadvi Software Project Planning Guide (2026 Edition)",
+      "downloadUrl": "/guides/Riyadvi_Software_Project_Planning_Guide_2026.pdf",
+      "downloadedAt": "2026-10-06T07:23:21.362Z"
+    },
+    {
+      "id": "lead-1",
+      "name": "Elena Rostova",
+      "company": "Nova Digital Studio",
+      "email": "elena@novastudio.design",
+      "phone": "+49 30 123456",
+      "guideName": "Software Project Planning Guide 2026 Edition",
+      "downloadedAt": "2026-10-05T18:53:57.487Z"
+    }
+  ],
+  "applications": [
+    {
+      "id": "app-1",
+      "name": "Aditya Sharma",
+      "email": "aditya.sharma.dev@gmail.com",
+      "phone": "+91 98765 43210",
+      "position": "Senior Full Stack Developer",
+      "experience": "5+ years",
+      "resumeUrl": "/uploads/sample_resume_aditya.pdf",
+      "message": "Experienced with React, Three.js, Node.js and building high performance cloud architectures.",
+      "status": "Reviewing",
+      "createdAt": "2026-10-02T06:53:57.487Z"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Title (Riyadvi Software Project Planning Guide 2026)
+   /Author (Riyadvi Software Technologies)
+   /Creator (Riyadvi Engineering & Strategy Group)
+>>
+endobj
+2 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [4 0 R] /Count 1 >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 612 792]
+   /Contents 5 0 R /Resources << /Font << /F1 6 0 R >> >> >>
+endobj
+5 0 obj
+<< /Length 280 >>
+stream
+BT
+/F1 22 Tf
+50 720 Td
+(RIYADVI SOFTWARE TECHNOLOGIES) Tj
+/F1 16 Tf
+0 -36 Td
+(Enterprise Software Project Planning Guide - 2026) Tj
+/F1 12 Tf
+0 -30 Td
+(Key Pillars:) Tj
+0 -20 Td
+(1. Discovery & Architecture Blueprinting) Tj
+0 -18 Td
+(2. Interactive 3D & Modern Frontend Design) Tj
+0 -18 Td
+(3. Scalable Cloud & Microservices Backend) Tj
+0 -18 Td
+(4. Continuous CI/CD & Performance Benchmarking) Tj
+ET
+endstream
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000140 00000 n 
+0000000189 00000 n 
+0000000248 00000 n 
+0000000366 00000 n 
+0000000699 00000 n 
+trailer
+<< /Size 7 /Root 2 0 R /Info 1 0 R >>
+startxref
+767
+%%EOF
